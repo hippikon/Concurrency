@@ -1,0 +1,4 @@
+abc	rock
+def	paper
+ghi	scissors
+jkl	spock
